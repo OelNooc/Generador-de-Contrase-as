@@ -1,0 +1,9 @@
+1.- Ejecuta el programa
+
+2.- Ingresa los datos en las casillas a excepción de la quinta casilla (contraseña generada)
+
+3.- Da click en "Comenzar"
+
+4.- Da click en "Crear/Editar.txt"
+
+5.- Si deseas agradecerme puedes darme el crédito mencionando mi git https://github.com/OelNooc o por el formulario de mi web https://portafolio-lca.netlify.app/
